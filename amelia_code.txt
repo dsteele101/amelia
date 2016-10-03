@@ -2,6 +2,8 @@ Find the sum of an array of ints.
 
 Does this code change if one of the numbers is a float? If so, how?
 
+Convert a string to an int without the built in method.
+
 Write a solution to FizzBuzz.
 	If you wanted to refactor this recursively, how would you?
 
